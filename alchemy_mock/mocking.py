@@ -318,6 +318,7 @@ class UnifiedAlchemyMagicMock(AlchemyMagicMock):
         "group_by": None,
         "filter": UnorderedCall,
         "filter_by": UnorderedCall,
+        "with_entities": None,
         "order_by": None,
         "limit": None,
         "distinct": None,
